@@ -28,7 +28,7 @@ Data is processed through Bronze, Silver, and Gold layers using a Medallion Arch
 
 ## Project Architecture
 
-![Architecture]([Images\architecture.png](https://github.com/sathyasivamloganathan/Uber-DataEngineering-Project/blob/main/Images/architecture.png))
+![Architecture]([Images\architecture.png](https://github.com/sathyasivamloganathan/Uber-DataEngineering-Project/blob/main/Images/architecture.png?raw=true))
 
 ---
 
@@ -48,7 +48,7 @@ Files loaded include:
 * map_cancellation_reasons
 * bulk_rides
 
-![ADLS Pipeline]([Images\ADLS.png](https://github.com/sathyasivamloganathan/Uber-DataEngineering-Project/blob/main/Images/ADLS.png))
+![ADLS Pipeline]([Images\ADLS.png](https://github.com/sathyasivamloganathan/Uber-DataEngineering-Project/blob/main/Images/ADLS.png?raw=true))
 
 ---
 
@@ -108,7 +108,7 @@ Final dimensional model built using Fact and Dimension tables.
 
 Databricks pipeline automatically manages dependencies between Bronze → Silver → Gold layers.
 
-![DAG Flow]([Images\DAG-Flow.png](https://github.com/sathyasivamloganathan/Uber-DataEngineering-Project/blob/main/Images/DAG-Flow.png))
+![DAG Flow]([Images\DAG-Flow.png](https://github.com/sathyasivamloganathan/Uber-DataEngineering-Project/blob/main/Images/DAG-Flow.png?raw=true))
 
 ---
 
