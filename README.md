@@ -28,7 +28,7 @@ Data is processed through Bronze, Silver, and Gold layers using a Medallion Arch
 
 ## Project Architecture
 
-![Architecture](https://raw.githubusercontent.com/sathyasivamloganathan/Uber-DataEngineering-Project/blob/main/Images/architecture.png?raw=true)
+![Architecture](https://raw.githubusercontent.com/sathyasivamloganathan/Uber-DataEngineering-Project/blob/main/Images/architecture.png)
 
 ---
 
